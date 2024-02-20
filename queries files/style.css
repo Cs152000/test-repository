@@ -1,0 +1,9 @@
+body{
+    background-color:blue;
+}
+.heading{
+    color:rgb(14, 14, 14);
+    background:yellow;
+    text-align:center;
+    border:2px solid white;
+}

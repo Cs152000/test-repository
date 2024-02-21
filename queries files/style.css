@@ -1,9 +1,22 @@
 body{
     background-color:blue;
 }
-.heading{
-    color:rgb(14, 14, 14);
-    background:yellow;
-    text-align:center;
-    border:2px solid white;
+
+.s-around{
+    justify-content:space-around;
+}
+.left-nav{
+    margin
+}
+.text-decoration{
+    text-decoration:none;
+}
+.flex{
+    display:flex;
+}
+.t-white{
+    color:white;
+}
+.roboto{
+    font-family:roboto;
 }
